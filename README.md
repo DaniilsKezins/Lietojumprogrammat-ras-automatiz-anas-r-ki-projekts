@@ -1,1 +1,1 @@
-# Lietojumprogrammat-ras-automatiz-anas-r-ki-projekts
+# Lietojumprogrammaturas-automatizanas-riki-projekts
