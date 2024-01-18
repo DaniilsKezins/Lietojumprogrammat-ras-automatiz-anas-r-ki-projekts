@@ -5,4 +5,5 @@
 Programmas darbības princips ir PDF failu atvēršana, ierakstot tos kā teksta failus, pēc tam tekstā atslēgvārdu atrašana, lai noteiktu nepieciešamās informācijas atrašanās vietu par nepieciešamo summu, un beigās visu summu aprēķināšana
 ### lejupielādējot bibliotēku
 pip install PyPDF2
+
 pip install fitz
